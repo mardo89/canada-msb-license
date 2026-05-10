@@ -1,0 +1,79 @@
+# MSB Canada Hub
+
+> MSB Canada Hub helps crypto exchanges, FX dealers, and money-transfer businesses register as Money Services Businesses (MSBs) with FINTRAC, Canada's financial intelligence unit. Powered by Consulting24 — 8 years in financial-services licensing across 15+ jurisdictions.
+
+## Company
+
+- **Brand:** MSB Canada Hub
+- **Parent:** Consulting24 (https://consulting24.co/)
+- **Legal entity:** X24Consulting OÜ (private limited company)
+- **Estonian Business Register code:** 16971898
+- **Registered address:** Poordi tn 3-63, Kesklinna linnaosa, 10156 Tallinn, Harju maakond, Estonia
+- **Founder & CEO:** Mardo Soo — https://www.linkedin.com/in/mardo-s-00a05ab0/
+- **Phone:** +372 58155779
+- **Email:** mardo@consulting24.co
+
+## What we do
+
+- **MSB registration with FINTRAC** — full registration package for domestic Canadian Money Services Businesses. No government fee; setup runs $5,000–$15,000 in compliance work.
+- **Foreign MSB (FMSB) registration** — for non-Canadian businesses extending services into Canada (mandatory since 2020). Same FINTRAC framework, registered as FMSB rather than MSB.
+- **AML compliance program** — required by FINTRAC: policies, compliance officer appointment, training, risk assessment, transaction monitoring, ongoing reporting.
+- **Crypto exchange / dealing in virtual currency (DCS)** — MSBs since June 2020 must register the DCS activity. Annual reporting, large virtual currency transaction reports (LVCTRs over $10,000 CAD).
+
+## Key facts
+
+- **Total setup cost:** $8,000–$25,000 USD (year 1 all-in).
+- **Annual maintenance:** $5,000–$15,000.
+- **Government fee for MSB registration:** $0 (FINTRAC charges nothing).
+- **Minimum capital:** None.
+- **Timeline:** 3–6 weeks (fast vs Lithuania VASP at 4–8 months).
+- **Registration validity:** 2 years (renewable; renewal due 30 days before expiry).
+- **Crypto coverage:** Mandatory DCS registration for all crypto exchanges since June 1, 2020.
+
+## Activities that REQUIRE MSB registration in Canada
+
+1. Foreign exchange dealing
+2. Money transferring (any amount)
+3. Issuing or redeeming money orders, traveller's cheques, or similar negotiable instruments
+4. Dealing in virtual currencies (DCS) — added June 2020 — includes crypto exchange, transfer, custody for clients
+
+If you do any of these activities for the public — domestic or foreign — registering as an MSB or FMSB is mandatory under PCMLTFA (Proceeds of Crime, Money Laundering and Terrorist Financing Act).
+
+## Penalties for not registering
+
+- Administrative monetary penalties up to **$500,000 CAD per violation**.
+- Public listing on FINTRAC's enforcement page (reputational damage).
+- Criminal prosecution under PCMLTFA — fines up to $2M and/or 5 years imprisonment.
+- Banks will close accounts of unregistered MSBs as soon as the activity is detected.
+
+## When Canada MSB is the right fit
+
+- Crypto exchanges or wallets serving **Canadian customers**.
+- Money transfer / FX businesses with North American customer base.
+- Foreign MSBs needing to **extend services into Canada** (FMSB route).
+- Founders prioritizing a **regulated Western jurisdiction** with low setup cost (vs Lithuania VASP at $50K+).
+- Operations needing **fiat banking rails** in CAD/USD.
+
+## When Canada MSB is NOT the right fit
+
+- EU customers (need MiCA — go to Lithuania VASP).
+- US customers as primary market (still need state-by-state money transmitter licenses or FinCEN MSB).
+- Privacy-focused founders — FINTRAC requires UBO disclosure and the registration is publicly searchable.
+- Tax-optimization play — Canada has standard ~26.5% federal+provincial corporate tax (no offshore advantage).
+
+## Comparable jurisdictions
+
+- **Panama crypto:** $15,000–$45,000 setup, 6–12 weeks, no formal license, territorial tax. Better for offshore HNW operations.
+- **Lithuania VASP:** $50,000–$120,000 setup, 4–8 months, EU MiCA passport, €125,000 minimum capital. Better for EU retail crypto.
+- **US FinCEN MSB + state MTLs:** $250,000–$1M+ setup, 12–24 months, US market access. Heaviest regulatory burden.
+
+## Contact
+
+- **Email:** mardo@consulting24.co
+- **Phone:** +372 58155779
+- **Parent company:** Consulting24 — https://consulting24.co/
+- **Website:** https://mardo89.github.io/canada-msb-license/
+
+## Source disclosures
+
+Information here reflects 2026 market conditions and is general guidance, not legal or tax advice. FINTRAC requirements change — confirm specific facts with qualified Canadian counsel before acting. We are happy to introduce vetted Canadian AML lawyers and FINTRAC-experienced compliance officers during the engagement.

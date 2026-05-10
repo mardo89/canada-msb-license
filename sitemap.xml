@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://mardo89.github.io/canada-msb-license/</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://mardo89.github.io/canada-msb-license/og-image.jpg</image:loc>
+      <image:caption>Canada MSB License 2026 — FINTRAC Registration Guide</image:caption>
+    </image:image>
+  </url>
+
+  <url><loc>https://mardo89.github.io/canada-msb-license/cost/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://mardo89.github.io/canada-msb-license/requirements/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://mardo89.github.io/canada-msb-license/application-process/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://mardo89.github.io/canada-msb-license/crypto-msb/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://mardo89.github.io/canada-msb-license/compliance-program/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://mardo89.github.io/canada-msb-license/vs-usa/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://mardo89.github.io/canada-msb-license/blog/step-by-step-guide-2026/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mardo89.github.io/canada-msb-license/blog/cost-breakdown/</loc><lastmod>2026-05-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+</urlset>

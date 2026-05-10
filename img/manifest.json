@@ -1,0 +1,56 @@
+[
+  {
+    "filename": "gallery-01.jpg",
+    "alt": "A stunning view of Toronto's skyline with the CN Tower on a sunny day.",
+    "photographer": "Alex Ohan",
+    "pexels_id": 32203131
+  },
+  {
+    "filename": "gallery-02.jpg",
+    "alt": "Stunning view of Toronto skyline featuring the iconic CN Tower and Lake Ontario.",
+    "photographer": "alex ohan",
+    "pexels_id": 12042757
+  },
+  {
+    "filename": "gallery-03.jpg",
+    "alt": "Stunning view of the Toronto skyline with the iconic CN Tower across the water on a clear day.",
+    "photographer": "Martin G",
+    "pexels_id": 29735136
+  },
+  {
+    "filename": "gallery-04.jpg",
+    "alt": "Stunning view of Toronto's modern skyline with Lake Ontario in the foreground at dusk.",
+    "photographer": "Aswin R S",
+    "pexels_id": 33355364
+  },
+  {
+    "filename": "gallery-05.jpg",
+    "alt": "Stunning view of Vancouver's skyline with mountains and marina in the background.",
+    "photographer": "Luke Lawreszuk",
+    "pexels_id": 29072584
+  },
+  {
+    "filename": "gallery-06.jpg",
+    "alt": "Stunning view of Vancouver's downtown skyline with waterfront and sunset glow.",
+    "photographer": "Luke Lawreszuk",
+    "pexels_id": 29240328
+  },
+  {
+    "filename": "gallery-07.jpg",
+    "alt": "Vancouver cityscape showcasing the iconic skyline and Canada Place against a cloudy sky.",
+    "photographer": "Nattipat Vesvarute",
+    "pexels_id": 4120126
+  },
+  {
+    "filename": "gallery-08.jpg",
+    "alt": "A stunning aerial view of Vancouver's skyline during daytime, showcasing modern architecture and bustling city life.",
+    "photographer": "The Six",
+    "pexels_id": 33247752
+  },
+  {
+    "filename": "gallery-09.jpg",
+    "alt": "Low angle view of towering skyscrapers and Canadian flag in a modern urban environment.",
+    "photographer": "Alizain Hirani",
+    "pexels_id": 12905872
+  }
+]
